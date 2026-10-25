@@ -4,7 +4,8 @@ EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
-Apparatus Required:
+Apparatus Required:<img width="1920" height="1080" alt="Screenshot 2026-10-25 145524" src="https://github.com/user-attachments/assets/4f475b04-5d59-454b-8361-2203bc99037d" />
+
 
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
@@ -50,14 +51,19 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
-
-Model graph:
-Calculation: 
+<img width="278" height="321" alt="Screenshot 2026-10-25 162046" src="https://github.com/user-attachments/assets/c2b37d67-9aa4-4ccf-bc92-956221bc9c29" />
 
 Open circuit characteristics
+<img width="1920" height="1080" alt="Screenshot 2026-10-25 145524" src="https://github.com/user-attachments/assets/0e4f4ad6-ba75-4e6e-a949-7360d56d0540" />
 
+Model graph:
+<img width="1920" height="1080" alt="Screenshot 2026-10-25 145551" src="https://github.com/user-attachments/assets/9db56797-ee4f-422c-9bde-d6bc15166d45" />
   
 Load Characteristics:
- 
+ <img width="1920" height="1080" alt="Screenshot 2026-10-25 145936" src="https://github.com/user-attachments/assets/f4201322-196b-4c57-b0b4-0a9dca2dcb47" />
+
+Model graph:
+<img width="1920" height="1080" alt="Screenshot 2026-10-25 145956" src="https://github.com/user-attachments/assets/7f62ba99-5843-4dfb-b882-17be4152964b" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
